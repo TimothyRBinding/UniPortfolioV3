@@ -1,0 +1,12 @@
+0001
+Stephen Jones
+Sales Clerk
+Sales
+0002
+John Smith
+Programmer
+OS Development
+0003
+Fred Blogs
+Project Manager
+Outsourcing
